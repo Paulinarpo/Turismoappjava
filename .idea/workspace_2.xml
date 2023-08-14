@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="779813ba-2615-4417-a96a-17dc53b66a88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Validacion/ReservaValidacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Validacion/ReservaValidacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Validacion/ValidacionOferta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Validacion/OfertaValidacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trabajo/Afiliado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Modelos/Afiliado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trabajo/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Modelos/Local.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trabajo/Noafiliado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Modelos/Noafiliado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trabajo/Oferta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Modelos/Oferta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trabajo/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Modelos/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trabajo/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Modelos/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Validacion/UsuarioValidacionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Validacion/UsuarioValidacionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Validacion/ValidacionOfertaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Validacion/OfertaValidacionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/trabajo/LocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Modelos/LocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/trabajo/OfertaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Modelos/OfertaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/trabajo/ReservaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Modelos/ReservaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/trabajo/UsuarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Modelos/UsuarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Validacion/ReservaValidacion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Validacion/ReservaValidacion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Validacion/ValidacionOferta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/trabajo/Afiliado.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Modelos/Afiliado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/trabajo/Local.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Modelos/Local.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/trabajo/Noafiliado.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Modelos/Noafiliado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/trabajo/Oferta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Modelos/Oferta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/trabajo/Reserva.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Modelos/Reserva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/trabajo/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Modelos/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/Validacion/ValidacionOfertaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/trabajo/LocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/trabajo/OfertaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/trabajo/ReservaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/trabajo/UsuarioTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/trabajo/UsuarioTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TzPQaKjjZnffM0he0BFpMUWUDE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ReservaValidacionTest">
+    <configuration name="LocalValidacionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trabajoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Validacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Validacion" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Validacion.LocalValidacionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfertaValidacionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trabajoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Validacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Validacion" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Validacion.OfertaValidacionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaValidacionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trabajoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Validacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Validacion" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Validacion.ReservaValidacionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trabajoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Modelos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Modelos" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Modelos.UsuarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioValidacionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trabajoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Validacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Validacion" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Validacion.UsuarioValidacionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReservaValidacionTest" />
+        <item itemvalue="JUnit.OfertaValidacionTest" />
+        <item itemvalue="JUnit.UsuarioTest" />
+        <item itemvalue="JUnit.LocalValidacionTest" />
+        <item itemvalue="JUnit.UsuarioValidacionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="779813ba-2615-4417-a96a-17dc53b66a88" name="Changes" comment="" />
+      <created>1692042920848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692042920848</updated>
+    </task>
+    <servers />
+  </component>
+</project>
